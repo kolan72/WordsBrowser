@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSiteLinkOrdered xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SiteLinkOrdered>
+		<ObjectState>Unchanged</ObjectState>
+		<Name>Wiktionary, the free dictionary</Name>
+		<Link>https://en.wiktionary.org/wiki/Wiktionary:Main_Page</Link>
+		<SortNumber>2</SortNumber>
+		<PluginName>Wiktionary</PluginName>
+	</SiteLinkOrdered>
+	<SiteLinkOrdered>
+		<ObjectState>Unchanged</ObjectState>
+		<Name>Яндекс.Переводчик</Name>
+		<Link>https://translate.yandex.ru</Link>
+		<SortNumber>3</SortNumber>
+		<PluginName>Yandex</PluginName>
+	</SiteLinkOrdered>
+	<SiteLinkOrdered>
+		<ObjectState>Unchanged</ObjectState>
+		<Name>Lingvo Live — онлайн-словарь от ABBYY. Переводчик для английского, русского, немецкого, французского, испанского, итальянского и украинского языков.</Name>
+		<Link>https://www.lingvolive.com/ru-ru</Link>
+		<SortNumber>1</SortNumber>
+		<PluginName>Lingvo Live</PluginName>
+	</SiteLinkOrdered>
+</ArrayOfSiteLinkOrdered>
